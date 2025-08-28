@@ -23,4 +23,8 @@ public class Sample1 {
 		System.out.println("test4");
 
 	}
+     @Test
+     private void tc05() {
+    	 System.out.println("test5");
+     }
 }
